@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace GB_CSharp_Level2_Lesson_5
 {
     /// <summary>
-    /// Базовый класс работников
+    /// Базовый класс работников.
     /// </summary>
     public abstract class BaseEmployee : IComparable<BaseEmployee>
     {
